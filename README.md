@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Ashmax23, a newer maker with a 3D printer and time to burn.
+- 👀 I’m interested in 3D printing, and Arduino projects.
+- 🌱 I’m currently learning C++, HTML, CSS, and Javascript.
+- 💞️ I’m looking to collaborate on 3D models and C++ programs for arduino.
+- 📫 You can reach me at my email: ashmax3d@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: LCD screens are very hard (pretty easy but it took me a ridiculous amount of time) to learn how to code.
